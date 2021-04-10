@@ -35,3 +35,23 @@ h2{
     top: 0;
     width: 100%;
 }
+
+#work{
+    background-color: lightgreen;
+}
+
+#Theater{
+    background-color: lightskyblue;
+}
+
+#Values{
+    background-color: lightyellow;
+}
+
+#web{
+    background-color: red;
+}
+
+#networks{
+    background-color: lime;
+}
