@@ -8,19 +8,30 @@ h1{
 h2{
     font-family: fantasy;
 }
-.topNav{
+#topNav{
     background-color: black;
     overflow: hidden;
+    list-style-type: none;
+    padding: 10px, 10px;
+    ;
 }
-
-.topNav a {
+#topNav a {
     float: left;
     color: green;
     text-align: center;
     padding: 20px, 20px;
-    font-size: 17px
+    margin: 5px;
+    font-size: 17px;
+    list-style-position: inside;
+    border: 1px solid green;
     
 }
-.topNav a:hover{
+#topNav a:hover{
     color: blue;
+}
+
+.sticky{
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
