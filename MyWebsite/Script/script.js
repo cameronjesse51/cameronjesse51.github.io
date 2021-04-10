@@ -1,3 +1,4 @@
+// I learned how to do it at W3 Schools 
 window.onscroll = function() {myFunction()}
 
 let navbar = document.getElementById("topNav")
