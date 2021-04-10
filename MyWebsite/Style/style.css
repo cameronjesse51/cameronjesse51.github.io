@@ -1,0 +1,26 @@
+p{
+    font-family: sans-serif;
+}
+
+h1{
+    font-family: monospace, sans-serif;
+}
+h2{
+    font-family: fantasy;
+}
+.topNav{
+    background-color: black;
+    overflow: hidden;
+}
+
+.topNav a {
+    float: left;
+    color: green;
+    text-align: center;
+    padding: 20px, 20px;
+    font-size: 17px
+    
+}
+.topNav a:hover{
+    color: blue;
+}
